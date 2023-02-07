@@ -4,7 +4,7 @@ class FindIndex
 {
 	String str = "India is my country";
 	char ch = 'y';
-	int cnt = 0;
+	int cnt = 1;
 	for(int i=0;i<str.length();i++)
 	{
 		char charVal = str.charAt(i);
